@@ -8,7 +8,7 @@
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fishie Yee",
+  "author": "Lena Yee",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
